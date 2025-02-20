@@ -1,0 +1,12 @@
+# Core libraries
+pandas
+scikit-learn
+
+# NLP processing
+nltk
+
+# PDF processing
+pdfplumber
+
+# Model saving & loading
+joblib
